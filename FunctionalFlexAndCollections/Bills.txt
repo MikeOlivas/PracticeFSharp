@@ -1,0 +1,9 @@
+1486.50,Mortgage
+327.25,Car
+139.50,Truck
+225.0,AutoInsurance
+975.0,HealthInsurance
+130.0,Water
+250.0,Electric
+210.0,CellPhones
+85.0,NWNatural
